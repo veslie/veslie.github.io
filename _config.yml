@@ -1,11 +1,11 @@
 # Site settings
-author: veslie losius
-title: 
+author: veslie l
+title: Learning Programing Online 
 header-img: img/home-bg.png
 email: veslielosius@yahoo.com
-copyright_name: veslie losius
+copyright_name: veslie l
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Stressed out Programmers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  veslie
